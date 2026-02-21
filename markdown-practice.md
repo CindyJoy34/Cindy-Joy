@@ -1,7 +1,7 @@
 ## My Learning Goals
 ### This Semester 
 This Semester my **Goal** is to learn everything i need to know about `Artificial Intelligence` including *python*.
-[My GitHub Link](https://allerendic254.github.com)
+[My GitHub Link](https://CindyJoy34.github.com)
 Things I want to learn:
 - Using GitHub and git efficiently
 - How to use Markdown well
