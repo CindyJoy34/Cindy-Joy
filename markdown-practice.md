@@ -1,7 +1,7 @@
 ## My Learning Goals
 ### This Semester 
 This Semester my **Goal** is to learn everything i need to know about `Artificial Intelligence` including *python*.
-[My GitHub Link](https://CindyJoy34.github.com)
+[My GitHub Link](https://github.com/CindyJoy34)
 Things I want to learn:
 - Using GitHub and git efficiently
 - How to use Markdown well
@@ -24,6 +24,6 @@ print("Hello, world!")
 
 # About Me
 My name is **Cindy Joy** and i just love everything to do with *Artificial Intelligence*. You could call me ~~TechGirl~~.
-I am interested in learning `python` and using GitHub. My GitHub link is (https://CindyJoy34.github.com)
+I am interested in learning `python` and using GitHub. My GitHub link is (https://github.com/CindyJoy34)
 
 Markdown Peactices
