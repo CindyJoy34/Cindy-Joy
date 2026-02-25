@@ -24,6 +24,6 @@ print("Hello, world!")
 
 # About Me
 My name is **Cindy Joy** and i just love everything to do with *Artificial Intelligence*. You could call me ~~TechGirl~~.
-I am interested in learning `python` and using GitHub. My GitHub link is (https://allerendic254.github.com)
+I am interested in learning `python` and using GitHub. My GitHub link is (https://CindyJoy34.github.com)
 
 Markdown Peactices
