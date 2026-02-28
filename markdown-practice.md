@@ -10,10 +10,11 @@ How to make a commit im git:
 1. Create and editing a file.
 2. Stage the changes you want to appear in the commit.
 3. Save the staged changes using a commit message describing what you did.
+
 | Tool    | Purpose       | Link                 |
 |---------|---------------|----------------------|
-| GitHub  | Store and edit| (https://github.com) |
-| Git     | Projects      | (https://git-scm.com)|
+| GitHub|Store and edit|(https://github.com)|
+| Git| Projects|(https://git-scm.com)|
 - [x] Create github account
 - [x] Learn to use markdown
 - [ ] Do projects
